@@ -1,0 +1,9 @@
+2025-01-28 18:28:01.456 | INFO     | tools.handle_assert:response_assert:24 - Actual result: True
+2025-01-28 18:28:01.457 | INFO     | tools.handle_assert:response_assert:25 - Expected result: True
+2025-01-28 18:28:01.457 | INFO     | tools.handle_assert:response_assert:28 - Assertion Successful
+2025-01-28 18:28:01.457 | INFO     | tools.handle_db_assert:db_assert:16 - This case doesn't need assertion.
+2025-01-28 18:28:01.460 | INFO     | tools.handle_presql:extract_code:12 - No sql to be extracted
+2025-01-28 18:28:01.460 | INFO     | tools.handle_replace_variable:replace_variable:13 - the list of marks is ['token_type', 'access_token']
+2025-01-28 18:28:01.460 | INFO     | tools.handle_replace_variable:replace_variable:16 - ------Start replacing-------
+2025-01-28 18:28:01.461 | INFO     | tools.handle_replace_variable:replace_variable:17 - The original data is { "Content-Type": "multipart/form-data","Accept-Language":"zh","Authorization": "#token_type##access_token#"}
+2025-01-28 18:28:01.461 | INFO     | tools.handle_replace_variable:replace_variable:30 - The value for dynamic variable token_type is bearer

@@ -1,0 +1,4 @@
+2025-01-28 18:30:05.791 | INFO     | tools.handle_extract_variable:extract_variable:11 - no data to be extracted.
+2025-01-28 18:30:05.794 | INFO     | tools.handle_assert:response_assert:13 - Starting assertion process
+2025-01-28 18:30:05.794 | INFO     | tools.handle_assert:response_assert:15 - This case doesn't need assertion.
+2025-01-28 18:30:05.794 | INFO     | tools.handle_db_assert:db_assert:16 - This case doesn't need assertion.
