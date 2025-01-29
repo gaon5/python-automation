@@ -1,7 +1,0 @@
-2025-01-28 18:28:00.762 | INFO     | tools.handle_replace_variable:replace_variable:35 - no data needs to be replaced.
-2025-01-28 18:28:00.764 | INFO     | tools.handle_api_request:api_request:33 - ---Request Info----
-2025-01-28 18:28:00.764 | INFO     | tools.handle_api_request:api_request:34 - Request header is: {'Content-Type': 'application/json', 'Accept-Language': 'zh'}
-2025-01-28 18:28:00.764 | INFO     | tools.handle_api_request:api_request:35 - Request body is: {'principal': 'lemon_py', 'credentials': '12345678', 'appType': 3, 'loginType': 0}
-2025-01-28 18:28:00.764 | INFO     | tools.handle_api_request:api_request:36 - Request method is: post
-2025-01-28 18:28:00.764 | INFO     | tools.handle_api_request:api_request:37 - Request url is: http://shop.lemonban.com:8107/login
-2025-01-28 18:28:01.450 | INFO     | tools.handle_api_request:api_request:62 - ---Response---

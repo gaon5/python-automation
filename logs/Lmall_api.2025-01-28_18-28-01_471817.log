@@ -1,8 +1,0 @@
-2025-01-28 18:28:01.470 | INFO     | tools.handle_api_request:api_request:35 - Request body is: {'filename': '59kb.png'}
-2025-01-28 18:28:01.472 | INFO     | tools.handle_api_request:api_request:36 - Request method is: post
-2025-01-28 18:28:01.472 | INFO     | tools.handle_api_request:api_request:37 - Request url is: http://shop.lemonban.com:8107/p/file/upload
-2025-01-28 18:28:01.472 | INFO     | tools.handle_api_request:api_request:55 - File upload parameter: {'file': <_io.BufferedReader name='D:\\Pycharm_workspace\\python_automation\\day_13_package\\data\\59kb.png'>}
-2025-01-28 18:28:01.472 | INFO     | tools.handle_api_request:api_request:56 - Header of File upload: {'Accept-Language': 'zh', 'Authorization': 'bearer23b49705-8b97-4507-9ea4-eb21d3d3c8f4'}
-2025-01-28 18:30:05.791 | INFO     | tools.handle_api_request:api_request:62 - ---Response---
-2025-01-28 18:30:05.791 | INFO     | tools.handle_api_request:api_request:64 - Response text: {"timestamp":"2025-01-28 13:30:05","status":500,"error":"Internal Server Error","message":"","path":"/p/file/upload"}
-2025-01-28 18:30:05.791 | INFO     | tools.handle_api_request:api_request:66 - Response code: 500

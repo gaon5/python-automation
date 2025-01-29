@@ -1,0 +1,6 @@
+2025-01-30 08:26:16.074 | INFO     | tools.handle_api_request:api_request:65 - Response text: {"access_token":"7f6b17ad-6b78-4b0a-9196-bb3ee090fe6c","token_type":"bearer","refresh_token":"73d9d720-6e7f-4110-a040-6d0d61162df3","expires_in":1295999,"pic":"http://shop.lemonban.com:8108/2025/01/33a5edbc82324913bcc43c1b6617601b.png","userId":"1f6c1b09905e4d52865907a8dbea0ba6","nickName":"lemon_py","enabled":true}
+2025-01-30 08:26:16.076 | INFO     | tools.handle_api_request:api_request:67 - Response code: 200
+2025-01-30 08:26:16.077 | INFO     | tools.handle_extract_variable:extract_variable:13 - -------Extracting variable starts------
+2025-01-30 08:26:16.077 | INFO     | tools.handle_extract_variable:extract_variable:15 - Data converted to dictionary: {'access_token': '$..access_token', 'token_type': '$..token_type'}
+2025-01-30 08:26:16.078 | INFO     | tools.handle_extract_variable:extract_variable:22 - data extracted from db is 7f6b17ad-6b78-4b0a-9196-bb3ee090fe6c
+2025-01-30 08:26:16.078 | INFO     | tools.handle_extract_variable:extract_variable:22 - data extracted from db is bearer

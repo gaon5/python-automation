@@ -1,0 +1,7 @@
+2025-01-30 08:26:16.100 | INFO     | tools.handle_api_request:api_request:35 - Request header is: {'Content-Type': 'multipart/form-data', 'Accept-Language': 'zh', 'Authorization': 'bearer7f6b17ad-6b78-4b0a-9196-bb3ee090fe6c'}
+2025-01-30 08:26:16.103 | INFO     | tools.handle_api_request:api_request:36 - Request body is: {'filename': '59kb.png'}
+2025-01-30 08:26:16.104 | INFO     | tools.handle_api_request:api_request:37 - Request method is: post
+2025-01-30 08:26:16.105 | INFO     | tools.handle_api_request:api_request:38 - Request url is: http://shop.lemonban.com:8107/p/file/upload
+2025-01-30 08:26:16.106 | INFO     | tools.handle_api_request:api_request:56 - File upload parameter: {'file': <_io.BufferedReader name='D:\\Pycharm_workspace\\python_automation\\day_13_package\\data\\59kb.png'>}
+2025-01-30 08:26:16.107 | INFO     | tools.handle_api_request:api_request:57 - Header of File upload: {'Accept-Language': 'zh', 'Authorization': 'bearer7f6b17ad-6b78-4b0a-9196-bb3ee090fe6c'}
+2025-01-30 08:26:22.491 | INFO     | tools.handle_api_request:api_request:63 - ---Response---

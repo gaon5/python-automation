@@ -1,7 +1,0 @@
-2025-01-28 18:28:01.453 | INFO     | tools.handle_extract_variable:extract_variable:24 - class property after extraction: {'__module__': 'data.envi_data', '__dict__': <attribute '__dict__' of 'EnviVariable' objects>, '__weakref__': <attribute '__weakref__' of 'EnviVariable' objects>, '__doc__': None, 'access_token': '23b49705-8b97-4507-9ea4-eb21d3d3c8f4', 'token_type': 'bearer', 'prodId': 5069, 'basketId': 26729, 'orderNumbers': '1884110707524636672', 'skuId': 5528, 'generate_unregistered_phone_num': '14502599871', 'check_code': '验证码有误或已过期'}
-2025-01-28 18:28:01.455 | INFO     | tools.handle_assert:response_assert:13 - Starting assertion process
-2025-01-28 18:28:01.455 | INFO     | tools.handle_replace_variable:replace_variable:13 - the list of marks is []
-2025-01-28 18:28:01.455 | INFO     | tools.handle_replace_variable:replace_variable:35 - no data needs to be replaced.
-2025-01-28 18:28:01.455 | INFO     | tools.handle_assert:response_assert:24 - Actual result: lemon_py
-2025-01-28 18:28:01.455 | INFO     | tools.handle_assert:response_assert:25 - Expected result: lemon_py
-2025-01-28 18:28:01.455 | INFO     | tools.handle_assert:response_assert:28 - Assertion Successful

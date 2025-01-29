@@ -1,0 +1,10 @@
+2025-01-30 08:26:16.084 | INFO     | tools.handle_assert:response_assert:25 - Expected result: lemon_py
+2025-01-30 08:26:16.086 | INFO     | tools.handle_assert:response_assert:28 - Assertion Successful
+2025-01-30 08:26:16.086 | INFO     | tools.handle_assert:response_assert:24 - Actual result: True
+2025-01-30 08:26:16.087 | INFO     | tools.handle_assert:response_assert:25 - Expected result: True
+2025-01-30 08:26:16.087 | INFO     | tools.handle_assert:response_assert:28 - Assertion Successful
+2025-01-30 08:26:16.088 | INFO     | tools.handle_db_assert:db_assert:16 - This case doesn't need assertion.
+2025-01-30 08:26:16.092 | INFO     | tools.handle_presql:extract_code:12 - No sql to be extracted
+2025-01-30 08:26:16.092 | INFO     | tools.handle_replace_variable:replace_variable:13 - the list of marks is ['token_type', 'access_token']
+2025-01-30 08:26:16.093 | INFO     | tools.handle_replace_variable:replace_variable:16 - ------Start replacing-------
+2025-01-30 08:26:16.093 | INFO     | tools.handle_replace_variable:replace_variable:17 - The original data is { "Content-Type": "multipart/form-data","Accept-Language":"zh","Authorization": "#token_type##access_token#"}

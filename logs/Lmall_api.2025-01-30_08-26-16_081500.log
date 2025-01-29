@@ -1,0 +1,5 @@
+2025-01-30 08:26:16.079 | INFO     | tools.handle_extract_variable:extract_variable:24 - class property after extraction: {'__module__': 'data.envi_data', '__dict__': <attribute '__dict__' of 'EnviVariable' objects>, '__weakref__': <attribute '__weakref__' of 'EnviVariable' objects>, '__doc__': None, 'access_token': '7f6b17ad-6b78-4b0a-9196-bb3ee090fe6c', 'token_type': 'bearer', 'resourcesUrl': 'http://shop.lemonban.com:8108/', 'filePath': '2025/01/33a5edbc82324913bcc43c1b6617601b.png', 'prodId': 5069, 'skuId': 5528, 'basketId': 26782, 'orderNumbers': '1884684371366252544', 'generate_unregistered_phone_num': '13563410603', 'mobile_code': '315954', 'check_code': '43981f657024400e83eb83b8058cb3af'}
+2025-01-30 08:26:16.082 | INFO     | tools.handle_assert:response_assert:13 - Starting assertion process
+2025-01-30 08:26:16.082 | INFO     | tools.handle_replace_variable:replace_variable:13 - the list of marks is []
+2025-01-30 08:26:16.083 | INFO     | tools.handle_replace_variable:replace_variable:35 - no data needs to be replaced.
+2025-01-30 08:26:16.083 | INFO     | tools.handle_assert:response_assert:24 - Actual result: lemon_py
