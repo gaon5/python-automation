@@ -10,7 +10,7 @@ from tools.handle_assert import response_assert
 from tools.handle_extract_variable import extract_variable
 
 case_all = read_excel(excel_path, "add to cart")
-# @allure.suite("add to cart")
+@allure.suite("add to cart")
 @allure.title("{case[Test Case Title]}")
 @pytest.mark.parametrize("case", case_all)
 def test_add_to_cart(case):
